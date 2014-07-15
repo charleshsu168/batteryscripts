@@ -34,7 +34,7 @@ sudo python xbatterylog.py
 
 OUTPUT
 ==============
-it outputs go to feed: https://xively.com/feeds/577572561
+it upload data to xively cloud every minute( SOC, dis, chg, temp). To view the live data while the battery is dishcharging/charing and running the script, go to feed: https://xively.com/feeds/577572561
 or download an Android app, xively viewer, to view the data on an Android tablet.
 FEED_ID = '577572561'
 
