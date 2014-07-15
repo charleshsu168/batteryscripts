@@ -20,7 +20,7 @@ Tcnt,Time,V1,V2,V3,V4,V5,V6,V7,V8,V1os,chg,disch,Ref-,Ref+,Iavg,Iinst,Vtot,V1_BG
 
 xbatterylog 
 ==============
-is a python script to upload live RPI battery pack
+is a python script to upload live RPI battery pack to xively.com
 
 
 To use it
@@ -31,5 +31,7 @@ Output
 ==============
 it output data to xively.com public feed.
 To view it go to feed: https://xively.com/feeds/577572561
+or download an Android app, xively viewer, to view the data on an Android tablet.
+
 
 
