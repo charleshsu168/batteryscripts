@@ -32,6 +32,6 @@ Output
 it output data to xively.com public feed.
 To view it go to feed: https://xively.com/feeds/577572561
 or download an Android app, xively viewer, to view the data on an Android tablet.
-
+FEED_ID = '577572561'
 
 
