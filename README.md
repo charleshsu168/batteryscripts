@@ -4,7 +4,7 @@ This is a collection of python scripts useful for lab batttery testing.
 
 BATTERYLOG
 ==============
-batterylog is a python script to log live RPI's battery pack data to outputfile as specified in -o.
+batterylog is a python script to log live RPI's battery pack data to outputfile as specified.
 It also outputs any errors to outpfilename_error.csv
 
 
