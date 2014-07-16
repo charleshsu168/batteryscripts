@@ -51,9 +51,9 @@ is a python script to convert log file's time column  to a different time format
 07/08/2014 06:15:29 PM converts to 2014-07-08T18:15:27
 
 
-(%m/%d/%Y %I:%M:%S %p) converts to (%Y-%m-%dT%H:%M:%S)
+In other words, it converts time in the format of %m/%d/%Y %I:%M:%S %p  to %Y-%m-%dT%H:%M:%S
 
-to display x-axis as date and time.
+in order to display x-axis as date and time Veusz.
 
 
 TO USE IT
