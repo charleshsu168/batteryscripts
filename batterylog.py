@@ -34,9 +34,9 @@ def batterylogging(outputfile):
     ##api = xively.XivelyAPIClient(API_KEY)
     pwd= os.getcwd()+'/'
     logfilename=datetime.datetime.now().strftime(pwd+outputfile+'_%m_%d_%Y_%I_%M_%p.csv')
-    logfile=open(logfilename, 'w')
+    logfile=open(logfilename, 'a')
     errorlogfilename=logfilename[:-4]+"_error.csv"
-    errorlogfile=open(errorlogfilename, 'w')
+    errorlogfile=open(errorlogfilename, 'a')
     ##  logging.basicConfig(filename=logfile, level=logging.DEBUG)
     ##  print 'Output are being generated to file named: '+ logfile
     ##  print 'where the format of the file name is: battery_data_logfile_%Hour_%Minute_%Day_%Month.log'
