@@ -58,5 +58,5 @@ in order to display x-axis as date and time Veusz.
 
 TO USE IT
 ==============
-sudo python convertv.py -i inputfilename
+sudo python convertv.py -i inputfilename -o outputfilename
 
