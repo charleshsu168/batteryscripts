@@ -25,7 +25,7 @@ usage: batterylog [-h] [-o OUTPUTFILE]
 This program will produce a battery log output file and an error log file.
 
 required arguments:
-  -o INPUTFILE   outputfile
+  -o outputfile
 
 optional arguments:
   -h, --help     show this help message and exit
