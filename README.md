@@ -25,7 +25,8 @@ Tcnt,Time,V1,V2,V3,V4,V5,V6,V7,V8,V1os,chg,disch,Ref-,Ref+,Iavg,Iinst,Vtot,V1_BG
 
 ...........
 ...........
-to outputfile
+
+to an outputfile
 
 XBATTERYLOG
 ==============
