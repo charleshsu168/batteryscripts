@@ -2,7 +2,7 @@ BATTERY SCRIPTS
 ==============
 This is a collection of python scripts useful for lab batttery testing. 
 
-BATTERYLOG
+BATTERYLOG.PY
 ==============
 batterylog is a python script to log live RPI's battery pack data to outputfile as specified.
 It also outputs any errors to outpfilename_error.csv
@@ -28,7 +28,7 @@ Tcnt,Time,V1,V2,V3,V4,V5,V6,V7,V8,V1os,chg,disch,Ref-,Ref+,Iavg,Iinst,Vtot,V1_BG
 
 to an outputfile
 
-XBATTERYLOG
+XBATTERYLOG.PY
 ==============
 is a python script to upload live RPI's battery pack data to xively.com
 
@@ -44,7 +44,7 @@ it upload data to xively cloud every minute( SOC, dis, chg, temp). To view the l
 or download an Android app, xively viewer, to view the data on an Android tablet.
 FEED_ID = '577572561'
 
-CONVERT
+CONVERTV.PY
 ==============
 is a python script to convert log file's time column  to a different time format for viewing in Veusz:
 
