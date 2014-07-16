@@ -48,7 +48,8 @@ CONVERT
 ==============
 is a python script to convert log file's time column  to a different time format for viewing in Veusz:
 
-07/08/2014 06:15:29 PM(%m/%d/%Y %I:%M:%S %p) converts to 2014-07-08T18:15:27(%Y-%m-%dT%H:%M:%S)
+07/08/2014 06:15:29 PM converts to 2014-07-08T18:15:27
+(%m/%d/%Y %I:%M:%S %p) converts to (%Y-%m-%dT%H:%M:%S)
 
 to display x-axis as date and time.
 
