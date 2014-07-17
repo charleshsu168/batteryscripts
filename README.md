@@ -20,7 +20,7 @@ TO INSTALL IT
 TO USE IT
 ==============
 
-sudo python batterylog.py -o outputfilename.csv
+sudo python batterylog.py -o outputfilename
 
 usage: batterylog [-h] [-o OUTPUTFILE]
 
