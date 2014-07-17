@@ -1,6 +1,6 @@
 BATTERY SCRIPTS
 ==============
-This contains a collection of python/aw scripts useful for lab batttery pack testing, as well as the their output logs and error files.
+This contains a collection of python/aw scripts useful for lab batttery pack testing, as well as their output logs and error files.
 
 BATTERYLOG.PY
 ==============
