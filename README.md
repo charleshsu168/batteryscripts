@@ -6,7 +6,7 @@ BATTERYLOG.PY
 ==============
 batterylog is a python script for RPI  to stream realtime battery pack data to stdout screen and to outputfile as specified by user while filtering out out values that are out of normal ranges and outputs it to  outpfile_error.csv
 
-It currently does not support running Cygwin in Windows via USB to battery pack.
+It currently run in RPI only. It does not support running Cygwin in Windows via USB to battery pack.
 
 
 TO INSTALL IT
