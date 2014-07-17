@@ -13,6 +13,7 @@ It currently does not support running Cygwin in Windows via USB to battery pack.
 
 TO INSTALL IT
 ==============
+ Before running the Python scripts, it is required to download and install  Python 2.7. The scripts are not compitable with Python 3.
  Download the scripts and unzip it to a folder. 
  Connect all the wires to RPI and the battery packs as in the lab environment. 
  Run the script.
