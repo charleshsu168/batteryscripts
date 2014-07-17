@@ -4,19 +4,14 @@ This contains a collection of python/aw scripts useful for lab batttery pack tes
 
 BATTERYLOG.PY
 ==============
-batterylog is a python script for RPI  to stream realtime battery pack data to stdout screen and to outputfile as specified by user.
-
-It will filter out out values that are out of range and outputs it to  outpfile_error.csv
+batterylog is a python script for RPI  to stream realtime battery pack data to stdout screen and to outputfile as specified by user while filtering out out values that are out of normal ranges and outputs it to  outpfile_error.csv
 
 It currently does not support running Cygwin in Windows via USB to battery pack.
 
 
 TO INSTALL IT
 ==============
- Before running the Python scripts, it is required to download and install  Python 2.7. The scripts are not compitable with Python 3.
- Download the scripts and unzip it to a folder. 
- Connect all the wires to RPI and the battery packs as in the lab environment. 
- Run the script.
+ Before running the Python scripts, it is required to download and install  Python 2.7. The scripts are not compitable with Python 3. Download the scripts and unzip it to a folder. Connect all the wires to RPI and the battery packs as in the lab environment. Run the script.
 
 TO USE IT
 ==============
